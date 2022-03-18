@@ -15,7 +15,9 @@
 
 ---- 
 
-Hi, I'm Gustavo, .... .
+Hi, I'm Gustavo, How are you doing?
+Well, I have a degree in civil engineering, I had my first contact with programming in one of the civil engineering modules, where I programmed in Python, I fell in love with programming and now I'm looking for a new opportunity! I have a family member who needed a Web Developer where I took a 6 month Web Development course in PHP, MySQL, JavaScript, HTML, CSS, SASS, Ionic, among others...
+From this course, I made several curricular projects that some of them can be found here!
 
 **Programming lover** :computer:, **FullStack Developer** 
 
