@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on big brain ideas
-- 🌱 I’m currently learning Java SpringBoot
-- 👯 I’m looking to collaborate on company project
-- 📫 How to reach me: <code><a target="_blank" href="https://api.whatsapp.com/send?phone=+351937115131">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="mailto:gustavosjob@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a></code>
-[![Github Badge](https://img.shields.io/badge/-Github-0d1117?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guuhboss)](https://github.com/guuhboss)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavosjob/)](https://www.linkedin.com/in/gustavosjob/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0d1117?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gustavinho.silva.10/)](https://www.facebook.com/gustavinho.silva.10/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-0d1117?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guuhsiilvaaaaa/)](https://www.instagram.com/guuhsiilvaaaaa/)
-
 
 
 ---- 
@@ -25,21 +11,43 @@ I tried to deploy the most of my github projects, so you dont need to worry to s
 
 **I am a Programming lover** :computer:, **FullStack Developer** 
 
+- 🔭 I’m currently working on big brain ideas
+- 🌱 I’m currently learning Java SpringBoot
+- 👯 I’m looking to collaborate on company project
+- 📫 How to reach me:[![Github Badge](https://img.shields.io/badge/-Github-0d1117?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guuhboss)](https://github.com/guuhboss)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavosjob/)](https://www.linkedin.com/in/gustavosjob/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0d1117?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gustavinho.silva.10/)](https://www.facebook.com/gustavinho.silva.10/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-0d1117?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guuhsiilvaaaaa/)](https://www.instagram.com/guuhsiilvaaaaa/)
+
+<span>
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=+351937115131">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a target="_blank" href="mailto:gustavosjob@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+  </span>
+  
+<br/>
+
 ----
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<span>
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+</span>
 
 ----
 
