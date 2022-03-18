@@ -16,10 +16,11 @@
 ---- 
 
 Hi, I'm Gustavo, How are you doing?
-Well, I have a degree in civil engineering, I had my first contact with programming in one of the civil engineering modules, where I programmed in Python, I fell in love with programming and now I'm looking for a new opportunity! I have a family member who needed a Web Developer where I took a 6 month Web Development course in PHP, MySQL, JavaScript, HTML, CSS, SASS, Ionic, among others...
-From this course, I made several curricular projects that some of them can be found here!
+Well, I have a degree in civil engineering, and I had my first contact with programming in one of the civil engineering modules, where I had to program in Python, I fell in love with programming and now I'm looking for a new opportunity! I enter in web development because one of my folks needed a Web Developer! So I took a 6 month Web Development course in PHP, MySQL, JavaScript, HTML, CSS, SASS, Ionic, etc.
+From this course, I made several curricular projects where some of them can be found here!
+I tried to deploy the most of my github projects, so you dont need to worry to set it up. Just go to link and see them.
 
-**Programming lover** :computer:, **FullStack Developer** 
+**I am a Programming lover** :computer:, **FullStack Developer** 
 
 ----
 
