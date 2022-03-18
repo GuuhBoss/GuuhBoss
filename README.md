@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guuhboss)](https://github.com/guuhboss)
+[![Github Badge](https://img.shields.io/badge/-Github-0d1117?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guuhboss)](https://github.com/guuhboss)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavosjob/)](https://www.linkedin.com/in/gustavosjob/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0d1117?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gustavinho.silva.10/)](https://www.facebook.com/gustavinho.silva.10/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-0d1117?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guuhsiilvaaaaa/)](https://www.instagram.com/guuhsiilvaaaaa/)
