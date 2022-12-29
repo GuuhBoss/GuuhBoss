@@ -12,8 +12,8 @@ I tried to deploy the most of my github projects, so you dont need to worry to s
 **I am a Programming lover** :computer:, **FullStack Developer** 
 
 - 🔭 I’m currently working on big brain ideas
-- 🌱 I’m currently learning Java SpringBoot
-- 👯 I’m looking to collaborate on company project
+- 🌱 I’m currently learning Magento
+# - 👯 I’m looking to collaborate on company project
 - 📫 How to reach me:[![Github Badge](https://img.shields.io/badge/-Github-0d1117?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guuhboss)](https://github.com/guuhboss)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavosjob/)](https://www.linkedin.com/in/gustavosjob/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0d1117?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gustavinho.silva.10/)](https://www.facebook.com/gustavinho.silva.10/)
